@@ -5,7 +5,7 @@
 The program allows a user/clerk to:
 * item add new books to the database
 * item update book information
-* item deletebooks fro the database
+* item delete books from the database
 * item search the database to find a specific book
 * item view all books in the database
 
