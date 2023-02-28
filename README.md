@@ -38,7 +38,7 @@ When the program is run the user is presented with a menu as below.
 
 ![Image of menu options](/images/menu_example.jpg)
 
-The user can select the option by entering the number only. No other inouts will be accepted. 
+The user can select the option by entering the number only. No other inputs will be accepted. 
 
 ### Menu 1: Entering a new book into the data base
 The program will ask the user to enter the new book details one by one. If the user has entered
